@@ -12,8 +12,8 @@
     "start": "node index",
     "dev": "nodemon index"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["node", "express", "javascript", "calculator"],
+  "author": "nirmal silwal",
   "license": "ISC",
   "description": ""
 }
