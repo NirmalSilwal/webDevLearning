@@ -13,21 +13,43 @@
     <p><a href="https://twitter.com/silwal_nirmal">Twitter</a></p>
     <p><a href="https://www.linkedin.com/in/nirmal-silwal/">Linkedin</a></p>
     <p><a href="mailto:silwalnirmal@.mail.com">Email</a></p>
+    <hr />
+
     <address>
         Maharishi International University<br>
         Fairfield, IA<br>
         USA
     </address>
-
+    <hr />
     <p>
-    <form class="" action="index.html" method="post">
+    <form action="mailto:silwalnirmal@mail.com" method="post" enctype="text/plain">
+
         <label>Your Name</label>
-        <input type="text" name="" value=""><br /><br />
+        <input type="text" name="yourname" value=""><br /><br />
+
         <label>Favorite color:</label>
-        <input type="color">
+        <input type="color" name="yourcolor">
+
         <input type="checkbox"><br /><br />
+
+        <label>Date:</label>
+        <input type="date" name="yourdate"><br /><br />
+
+        <label>Choose file:</label>
+        <input type="file" name="yourfile"><br /><br />
+
+        <label>Expected salary:</label>
+        <input type="range"><br /><br />
+
+        <label>Your Email:</label>
+        <input type="email" name="youremail" value=""><br /><br />
+
         <label>Password:</label>
-        <input type="password"><br /><br />
+        <input type="password" name="yourpassword"><br /><br />
+
+        <label>Your Message:</label><br />
+        <textarea name="yourmessage" rows="8" cols="50"></textarea><br /><br />
+
         <input type="submit" name="">
     </form>
     </p>
