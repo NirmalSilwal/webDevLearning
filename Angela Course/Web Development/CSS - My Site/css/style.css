@@ -19,30 +19,20 @@ h3 {
 
 .top-container {
     background-color: #E4F9F5;
-    /* height: 200px;
-    width: 200px; */
-    /* border: solid 10px; */
     padding-top: 100px;
     position: relative;
 }
 
+
 .middle-container {
-    height: 200px;
-    width: 200px;
-    background-color: red;
-    /* border: solid 20px; */
-    /* margin-left: 260px;      */
+   
 }
 
 .bottom-container {
-    height: 200px;
-    width: 200px;
-    background-color: yellow;
-    /* border: solid 10px; */
-    /* margin-left: 500px; */
+   
 }
 
-.pro {
+* .pro {
     text-decoration: underline;
 }
 
