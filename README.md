@@ -13,4 +13,6 @@ Currently I am taking the online course by Angela on web dev bootcamp as well as
 # Dice Game 
   - [code here](https://github.com/NirmalSilwal/webDevLearning/tree/main/Angela%20Course/Web%20Development/Dicee%20Game)
  
-  - ## [live demo](https://nirmalsilwal.github.io/webDevLearning/Angela%20Course/Web%20Development/Dicee%20Game/dicee.html)
+  - ## [Live demo](https://nirmalsilwal.github.io/webDevLearning/Angela%20Course/Web%20Development/Dicee%20Game/dicee.html)
+  
+![game interface](https://github.com/NirmalSilwal/webDevLearning/blob/main/diceGame.png)
