@@ -11,8 +11,10 @@ Currently I am taking the online course by Angela on web dev bootcamp as well as
 ![Nirmal Silwal certificate on jQuery from Udemy course](https://github.com/NirmalSilwal/webDevLearning/blob/main/jquery.jpeg)
 
 # Dice Game 
+Game instruction - refresh the page to play the game
+
   - [code here](https://github.com/NirmalSilwal/webDevLearning/tree/main/Angela%20Course/Web%20Development/Dicee%20Game)
  
   - ## [Live demo](https://nirmalsilwal.github.io/webDevLearning/Angela%20Course/Web%20Development/Dicee%20Game/dicee.html)
-  
+ 
 ![game interface](https://github.com/NirmalSilwal/webDevLearning/blob/main/diceGame.png)
