@@ -15,6 +15,14 @@ Game instruction - refresh the page to play the game
 
   - [code here](https://github.com/NirmalSilwal/webDevLearning/tree/main/Angela%20Course/Web%20Development/Dicee%20Game)
  
-  - ## [Live demo](https://nirmalsilwal.github.io/webDevLearning/Angela%20Course/Web%20Development/Dicee%20Game/dicee.html)
+  - # [Live demo](https://nirmalsilwal.github.io/webDevLearning/Angela%20Course/Web%20Development/Dicee%20Game/dicee.html)
  
 ![game interface](https://github.com/NirmalSilwal/webDevLearning/blob/main/diceGame.png)
+
+# Drum Kit project (play drum music)
+music instruction - press various drums by click of mouse or press key in your keyboard, mouse and keyboard click both works
+
+  # [Live demo](https://nirmalsilwal.github.io/webDevLearning/Angela%20Course/Web%20Development/Drum_Kit/index.html)
+
+![drum kit UI](https://github.com/NirmalSilwal/webDevLearning/blob/main/drumKitUI.png)
+
