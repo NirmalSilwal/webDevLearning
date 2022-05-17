@@ -1,0 +1,21 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "learning express js framework from Angela course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "udemy",
+    "webDevelopment",
+    "tutorial"
+  ],
+  "author": "Nirmal Silwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
