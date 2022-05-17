@@ -27,11 +27,9 @@ app.get("/bmicalculator", function (req, res) {
 });
 
 app.post("/bmicalculator", function (req, res) {
-    let weight = Number(req.body.weight);
-    let height = Number(req.body.height);
-
+    let weight = parseFloat(req.body.weight);
+    let height = parseFloat(req.body.height);
     let bmi = weight / Math.pow(height, 2);
-    console.log(bmi);
 
     res.send("<h2>Your Body mass index is " + bmi + "</h2>");
 })
