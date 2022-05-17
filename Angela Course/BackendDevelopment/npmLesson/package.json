@@ -1,0 +1,20 @@
+{
+  "name": "npmlesson",
+  "version": "1.0.0",
+  "description": "this is NPM tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "tutorial"
+  ],
+  "author": "Nirmal Silwal",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}
